@@ -7,5 +7,5 @@ This app is follows the package's lifecycle, from placing the order to recieve i
 + Then the enduser would recieve the pin code to open the right box
 + Admin monitoring the process
 
-The functions are secured by a applying a basic spring security system.
+The functions are secured by applying a basic spring security system.
 Check the Controller for more functions!
